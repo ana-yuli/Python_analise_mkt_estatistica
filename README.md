@@ -19,3 +19,11 @@ As campanhas foram segmentadas por quartis de ROI para comparação entre grupos
 
 Este projeto reforçou a importância da análise exploratória de dados para transformar informações brutas em insights que podem apoiar decisões de negócio e estratégias de marketing.
 
+<h2>Matriz de Correlação de Pearson</h2>
+<img src="pearson_mkt.jpeg" width="700">
+
+<h2>Distribuição das Métricas de Marketing</h2>
+<img src="distribuicao_mkt.jpeg" width="700">
+
+<h2>Segmentação por Performance</h2>
+<img src="segmentacao_mkt.jpeg" width="700">
