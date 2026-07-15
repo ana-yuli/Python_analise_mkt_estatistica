@@ -6,7 +6,7 @@ PT -  O objetivo foi aplicar conceitos de estatística e análise exploratória 
 • Criação de métricas de marketing como CTR (Click Through Rate), CPC (Custo por Clique) e ROI
 • Visualização de dados e análise de performance
 
-📊 ###Principais análises realizadas 
+📊 ### Principais análises realizadas 
 
 **Matriz de Correlação de Pearson**
 Utilizada para avaliar a  relação linear entre as variáveis numéricas dos dados. A análise indicou correlações fracas na maior parte das métricas.
